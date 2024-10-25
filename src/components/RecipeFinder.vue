@@ -5,7 +5,7 @@
       <input
         class="border focus:border-white focus:outline-none pl-4 pr-4 pt-2 pb-2 w-[35%] rounded-full"
         v-model="ingredient"
-        placeholder="Enter an ingredient"
+        placeholder="Enter an ingredient...."
       />
       <button
         class="ml-4 border pl-4 pr-4 pt-3 pb-3 rounded-full bg-yellow-500 text-white w-[8%]"
